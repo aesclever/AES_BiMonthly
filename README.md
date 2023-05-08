@@ -168,6 +168,6 @@ Note: <sub><span style="color:grey">The `RRSIG RR` specifies a validity interval
 
 <br />
 The practical implications of network monitoring for DNS related attacks are clear: by monitoring the network for suspicious activity, organizations can detect and respond to malicious activity quickly, minimizing the damage caused by the attack. Additionally, network monitoring can help organizations identify potential vulnerabilities in their systems and networks, allowing them to take proactive steps to prevent future attacks. Ultimately, network monitoring is an essential tool for organizations looking to protect their networks and systems from malicious activity. 
-We seem to be in a reactive mode, where we shouldn't be.  We look toward a time when cyber attacks are a thing of the past.  For now, as long as information is wealth and data is power, there would be some who exploit it through illegal means.   
+We seem to be in a reactive mode, where we shouldn't be.  We look toward a time when cyber attacks are a thing of the past.  For now, as long as information is power and data is wealth, there would be some who exploit it through illegal means.   
 <hr>
 Copyright&copy; 2023 Applied Expert Systems LLC All Rights Reserved
