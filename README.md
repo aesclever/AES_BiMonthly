@@ -1,5 +1,6 @@
 # DNS News
-By <a href="https://new.aesclever.com"><span style="color:green">Applied Expert Systems LLC</span></a>   {: style="text-align: right" } May 8th, 2023
+By <a href="https://new.aesclever.com"><span style="color:green">Applied Expert Systems LLC</span></a>
+<p style='text-align: justify;'> Your Text </p>
 
 
 The most recent DNS attack vectors include DNS hijacking, DNS spoofing, DNS cache poisoning, DNS tunneling, and DNS amplification attacks.  As malicious attacks evolved to more sophisticated methods of exploitation, the fundamental issue remains; it's a whack-a-mole reality.  A mole problem requires fortification, detection, locating, and bringing the mole to face justice.
