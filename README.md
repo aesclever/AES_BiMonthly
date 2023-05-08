@@ -115,7 +115,7 @@ Note: <sub>  <span style="color:grey">All is good if the status says `NOERROR`</
 
 2. **Display the DNSSEC chain of trust with dig command**:
 
-`dig DS` <span style="color:green">{YOUR-DOMAIN-NAME}</span> `+trace`
+`dig DS ` <span style="color:green">{YOUR-DOMAIN-NAME}</span> `+trace`
 
 
 e.g.
