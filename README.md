@@ -23,7 +23,7 @@ We have a suite of enterprise network monitoring tools.  Sign up for a free tria
 
 <br />
 
-<iframe id="inlineFrame" title="Free trial form" width="100%" height="200" src="https://new.aesclever.com/free-trial/" >Sign up for Free Trial</iframe>
+<iframe id="inlineFrame" title="Free trial form" width="100%" height="300" src="https://new.aesclever.com/free-trial/" >Sign up for Free Trial</iframe>
 
 
 <br />
@@ -115,7 +115,7 @@ Note: <sub>  <span style="color:grey">All is good if the status says `NOERROR`</
 
 2. **Display the DNSSEC chain of trust with dig command**:
 
-`dig DS YOUR-DOMAIN-NAME +trace`
+`dig DS `<span style="color:green">{YOUR-DOMAIN-NAME}</span> +trace`
 
 
 e.g.
