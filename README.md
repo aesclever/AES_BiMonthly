@@ -46,7 +46,7 @@ Requirements: Linux or WSL - Windows Linux Subsystem
 
 <br />
 
-### **DNSSEC verification commands**: 
+### **DNSSEC verification commands** 
 
 
 `dig +sigchase +trusted-key={key} `<span style="color:green">{YOUR-DOMAIN-NAME}</span> `A | grep -i validation`
@@ -115,7 +115,7 @@ Note: <sub>  <span style="color:grey">All is good if the status says `NOERROR`</
 <hr>
 <br />
 
-### **Display the DNSSEC chain of trust**:
+### **Display the DNSSEC chain of trust**
 
 `dig DS ` <span style="color:green">{YOUR-DOMAIN-NAME}</span> `+trace`
 
