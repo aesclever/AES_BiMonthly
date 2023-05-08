@@ -2,7 +2,7 @@
 
 By <a href="https://new.aesclever.com"><span style="color:green">Applied Expert Systems LLC</span></a>
 
-The most recent DNS attack vectors include DNS hijacking, DNS spoofing, DNS cache poisoning, DNS tunneling, and DNS amplification attacks.  As malicious attacks evolved to more sophisticated methods of exploitation, the fundamental issue remains; it's a wack-a-mole reality.  A mole problem requires fortification, detection, locating, and bringing the mole to face justice.
+The most recent DNS attack vectors include DNS hijacking, DNS spoofing, DNS cache poisoning, DNS tunneling, and DNS amplification attacks.  As malicious attacks evolved to more sophisticated methods of exploitation, the fundamental issue remains; it's a whack-a-mole reality.  A mole problem requires fortification, detection, locating, and bringing the mole to face justice.
 
 * `DNS hijacking` is a type of cyber attack that redirects a user from a legitimate website to a malicious one. It is done by malicious actors who are looking to steal information or spread malware. The targets of DNS hijacking are typically users who are unaware of the attack and are not using secure protocols to access the web. 
 
